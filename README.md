@@ -18,3 +18,5 @@ The challenge lies in creating an accurate, reliable system that effectively det
  	ARGPARSE: Helps in passing command line arguments
  	DLIB :For face detection and landmark detection
  	CV2: Used for image processing and display
+[PPT](https://www.canva.com/design/DAFtHOODZl0/V1l2qcx0kgpSaMEtBJ8VaA/edit?utm_content=DAFtHOODZl0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Driver Drowsiness System.docx](https://github.com/RiddhikaTripathi/Driver-Drowsiness-System/files/13197438/Driver.Drowsiness.System.docx)
