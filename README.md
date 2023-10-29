@@ -1,6 +1,6 @@
 # Driver-Drowsiness-System
 
-# LIBRARIES USED:
+  LIBRARIES USED:
  	SCIPY.SPATIAL:  Used for distance calculations
  	IMUTILS.VIDEO: Provides videostream handling and image resizing utilities
  	IMUTILS.FACE_UTILS: For face detection
